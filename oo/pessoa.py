@@ -17,6 +17,8 @@ if __name__ == '__main__':
 
     print(renzo.filhos)
     print(luciano.filhos)
+    print(renzo.__dict__)
+    # simples'
 #    print(p.nome)
 #    p.nome="Marcia Zigolis"
 #    print(p.nome)
